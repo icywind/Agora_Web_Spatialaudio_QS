@@ -1,0 +1,18 @@
+{
+  "name": "agora_project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.4.0"
+  },
+  "dependencies": {
+    "agora-extension-spatial-audio": "^1.0.0-beta1",
+    "agora-rtc-sdk-ng": "^4.18.2"
+  }
+}
